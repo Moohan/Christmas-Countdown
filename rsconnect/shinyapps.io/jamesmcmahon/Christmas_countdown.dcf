@@ -1,0 +1,12 @@
+name: Christmas_countdown
+title: Christmas_countdown
+username: jamesmcmahon
+account: jamesmcmahon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13530493
+bundleId: 9467688
+url: https://jamesmcmahon.shinyapps.io/Christmas_countdown/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
